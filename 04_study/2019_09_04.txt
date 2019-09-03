@@ -1,0 +1,8 @@
+# 팁 기록
+1. 타임시리즈 변수를 다양하게 표현할 수 있다.
+
+2. requirement.txt를 github 계정에서 pip을 쓸 수 있을지.
+
+3. Kaggle을 시작할 때, 조금 다양하게 사용해볼 수 있는 EDA 코드가 있으면 좋겠다.
+3.1 Data 크기 확인해보기 : .shape()
+3.2 Data : .info() or .head()
